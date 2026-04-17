@@ -2296,7 +2296,7 @@ After ensuring that your `deploy.sh` script works correctly and that Docker Comp
 
 By leveraging GitHub Actions for both CI and CD, you ensure a robust and automated workflow that maintains high code standards and facilitates smooth deployments.
 
-### Live Demo
+### 🚀 Live Demo
 
 You can explore the project using the demo environment:
 
